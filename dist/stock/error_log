@@ -1,0 +1,266 @@
+[06-Mar-2023 12:39:40 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:39:40 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:39:40 UTC] PHP Warning:  Undefined variable $con in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 6
+[06-Mar-2023 12:39:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 6
+[06-Mar-2023 12:39:55 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:39:55 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:39:55 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:39:55 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:39:56 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:39:56 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:39:56 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:39:56 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:39:56 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:39:56 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:39:56 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:39:56 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:40:01 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:40:01 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:40:01 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:40:01 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:40:01 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:40:01 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:40:02 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:40:02 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:40:02 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:40:02 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:40:06 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:40:06 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:41:12 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:41:12 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:41:12 UTC] PHP Warning:  Undefined variable $con in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 6
+[06-Mar-2023 12:41:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 6
+[06-Mar-2023 12:41:13 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:41:13 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:41:13 UTC] PHP Warning:  Undefined variable $con in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 6
+[06-Mar-2023 12:41:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 6
+[06-Mar-2023 12:41:13 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:41:13 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:41:13 UTC] PHP Warning:  Undefined variable $con in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 6
+[06-Mar-2023 12:41:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 6
+[06-Mar-2023 12:42:59 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:42:59 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:42:59 UTC] PHP Warning:  Undefined variable $con in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 6
+[06-Mar-2023 12:42:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 6
+[06-Mar-2023 12:43:17 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:43:17 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:43:17 UTC] PHP Warning:  Undefined variable $con in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 6
+[06-Mar-2023 12:43:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 6
+[06-Mar-2023 12:43:18 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:43:18 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:43:18 UTC] PHP Warning:  Undefined variable $con in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 6
+[06-Mar-2023 12:43:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 6
+[06-Mar-2023 12:43:18 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:43:18 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:43:18 UTC] PHP Warning:  Undefined variable $con in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 6
+[06-Mar-2023 12:43:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 6
+[06-Mar-2023 12:43:18 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:43:18 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:43:18 UTC] PHP Warning:  Undefined variable $con in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 6
+[06-Mar-2023 12:43:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 6
+[06-Mar-2023 12:43:19 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:43:19 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:43:19 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:43:19 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:43:19 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:43:19 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:43:20 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:43:20 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:43:58 UTC] PHP Warning:  include(../confing/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:43:58 UTC] PHP Warning:  include(): Failed opening '../confing/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 2
+[06-Mar-2023 12:45:01 UTC] PHP Fatal error:  Uncaught Error: Class "Mpdf\Mpdf" not found in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:4
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 4
+[06-Mar-2023 12:45:02 UTC] PHP Fatal error:  Uncaught Error: Class "Mpdf\Mpdf" not found in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:4
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 4
+[06-Mar-2023 12:45:02 UTC] PHP Fatal error:  Uncaught Error: Class "Mpdf\Mpdf" not found in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:4
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 4
+[06-Mar-2023 12:45:02 UTC] PHP Fatal error:  Uncaught Error: Class "Mpdf\Mpdf" not found in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:4
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 4
+[06-Mar-2023 12:45:02 UTC] PHP Fatal error:  Uncaught Error: Class "Mpdf\Mpdf" not found in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:4
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 4
+[06-Mar-2023 12:45:03 UTC] PHP Fatal error:  Uncaught Error: Class "Mpdf\Mpdf" not found in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:4
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 4
+[06-Mar-2023 12:45:03 UTC] PHP Fatal error:  Uncaught Error: Class "Mpdf\Mpdf" not found in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:4
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 4
+[06-Mar-2023 12:45:03 UTC] PHP Fatal error:  Uncaught Error: Class "Mpdf\Mpdf" not found in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:4
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 4
+[06-Mar-2023 12:45:03 UTC] PHP Fatal error:  Uncaught Error: Class "Mpdf\Mpdf" not found in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:4
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 4
+[06-Mar-2023 12:45:04 UTC] PHP Fatal error:  Uncaught Error: Class "Mpdf\Mpdf" not found in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:4
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 4
+[06-Mar-2023 12:49:43 UTC] PHP Warning:  Undefined variable $generator in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:49:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getBarcode() on null in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:27
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:49:46 UTC] PHP Warning:  Undefined variable $generator in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:49:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getBarcode() on null in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:27
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:49:56 UTC] PHP Warning:  Undefined variable $generator in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:49:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getBarcode() on null in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:27
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:49:57 UTC] PHP Warning:  Undefined variable $generator in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:49:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getBarcode() on null in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:27
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:49:57 UTC] PHP Warning:  Undefined variable $generator in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:49:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getBarcode() on null in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:27
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:49:57 UTC] PHP Warning:  Undefined variable $generator in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:49:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getBarcode() on null in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:27
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:49:58 UTC] PHP Warning:  Undefined variable $generator in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:49:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getBarcode() on null in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:27
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:49:58 UTC] PHP Warning:  Undefined variable $generator in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:49:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getBarcode() on null in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:27
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:49:58 UTC] PHP Warning:  Undefined variable $generator in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:49:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getBarcode() on null in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:27
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:49:58 UTC] PHP Warning:  Undefined variable $generator in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:49:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getBarcode() on null in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:27
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:53:38 UTC] PHP Warning:  Undefined variable $generator in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 26
+[06-Mar-2023 12:53:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getBarcode() on null in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 26
+[06-Mar-2023 12:53:39 UTC] PHP Warning:  Undefined variable $generator in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 26
+[06-Mar-2023 12:53:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getBarcode() on null in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 26
+[06-Mar-2023 12:53:39 UTC] PHP Warning:  Undefined variable $generator in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 26
+[06-Mar-2023 12:53:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getBarcode() on null in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 26
+[06-Mar-2023 12:53:40 UTC] PHP Warning:  Undefined variable $generator in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 26
+[06-Mar-2023 12:53:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getBarcode() on null in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 26
+[06-Mar-2023 12:53:40 UTC] PHP Warning:  Undefined variable $generator in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 26
+[06-Mar-2023 12:53:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getBarcode() on null in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 26
+[06-Mar-2023 12:55:49 UTC] PHP Warning:  Undefined array key "	pl_selling_price" in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:55:50 UTC] PHP Warning:  Undefined array key "	pl_selling_price" in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:55:50 UTC] PHP Warning:  Undefined array key "	pl_selling_price" in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:55:50 UTC] PHP Warning:  Undefined array key "	pl_selling_price" in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:55:51 UTC] PHP Warning:  Undefined array key "	pl_selling_price" in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:55:57 UTC] PHP Warning:  Undefined array key "	pl_selling_price" in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:55:57 UTC] PHP Warning:  Undefined array key "	pl_selling_price" in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:55:57 UTC] PHP Warning:  Undefined array key "	pl_selling_price" in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:55:58 UTC] PHP Warning:  Undefined array key "	pl_selling_price" in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:55:58 UTC] PHP Warning:  Undefined array key "	pl_selling_price" in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:55:58 UTC] PHP Warning:  Undefined array key "	pl_selling_price" in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:55:58 UTC] PHP Warning:  Undefined array key "	pl_selling_price" in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:55:59 UTC] PHP Warning:  Undefined array key "	pl_selling_price" in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:55:59 UTC] PHP Warning:  Undefined array key "	pl_selling_price" in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:55:59 UTC] PHP Warning:  Undefined array key "	pl_selling_price" in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:56:00 UTC] PHP Warning:  Undefined array key "	pl_selling_price" in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:56:00 UTC] PHP Warning:  Undefined array key "	pl_selling_price" in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:56:01 UTC] PHP Warning:  Undefined array key "	pl_selling_price" in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:56:01 UTC] PHP Warning:  Undefined array key "	pl_selling_price" in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:57:19 UTC] PHP Warning:  Undefined array key "	pl_selling_price" in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 12:57:19 UTC] PHP Warning:  Undefined array key "	pl_selling_price" in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 27
+[06-Mar-2023 13:10:14 UTC] PHP Warning:  Undefined variable $date in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 30
+[06-Mar-2023 13:10:15 UTC] PHP Warning:  Undefined variable $date in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 30
+[06-Mar-2023 13:10:16 UTC] PHP Warning:  Undefined variable $date in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 30
+[06-Mar-2023 13:16:18 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:50
+Stack trace:
+#0 /home5/bigshrry/public_html/stock/dist/stock/Barcode.php(50): number_format()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 50
+[06-Mar-2023 13:16:18 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:50
+Stack trace:
+#0 /home5/bigshrry/public_html/stock/dist/stock/Barcode.php(50): number_format()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 50
+[06-Mar-2023 13:16:19 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:50
+Stack trace:
+#0 /home5/bigshrry/public_html/stock/dist/stock/Barcode.php(50): number_format()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 50
+[06-Mar-2023 13:16:19 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:50
+Stack trace:
+#0 /home5/bigshrry/public_html/stock/dist/stock/Barcode.php(50): number_format()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 50
+[06-Mar-2023 13:16:20 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php:50
+Stack trace:
+#0 /home5/bigshrry/public_html/stock/dist/stock/Barcode.php(50): number_format()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/Barcode.php on line 50
+[06-Mar-2023 14:12:41 UTC] PHP Warning:  Undefined variable $con in /home5/bigshrry/public_html/stock/dist/stock/productlist.php on line 2
+[06-Mar-2023 14:12:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/stock/productlist.php:2
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/stock/productlist.php on line 2

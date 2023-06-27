@@ -1,0 +1,1230 @@
+[08-Mar-2023 06:19:08 UTC] PHP Warning:  require_once(../vendor/autoload.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/test.php on line 4
+[08-Mar-2023 06:19:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/test.php:4
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/test.php on line 4
+[08-Mar-2023 06:19:39 UTC] PHP Warning:  require_once(/vendor/autoload.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/test.php on line 4
+[08-Mar-2023 06:19:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/test.php:4
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/test.php on line 4
+[08-Mar-2023 06:19:40 UTC] PHP Warning:  require_once(/vendor/autoload.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/test.php on line 4
+[08-Mar-2023 06:19:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/test.php:4
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/test.php on line 4
+[08-Mar-2023 06:19:41 UTC] PHP Warning:  require_once(/vendor/autoload.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/test.php on line 4
+[08-Mar-2023 06:19:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/test.php:4
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/test.php on line 4
+[08-Mar-2023 06:20:00 UTC] PHP Warning:  Undefined array key 1 in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php on line 244
+[08-Mar-2023 06:20:00 UTC] PHP Warning:  Undefined array key 2 in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php on line 244
+[08-Mar-2023 06:20:00 UTC] PHP Warning:  Undefined array key 3 in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php on line 244
+[08-Mar-2023 06:20:00 UTC] PHP Fatal error:  Uncaught TypeError: round(): Argument #1 ($num) must be of type int|float, string given in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php:59
+Stack trace:
+#0 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php(59): round()
+#1 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Mpdf.php(18955): Mpdf\Color\ColorConverter->convert()
+#2 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Tag/BlockTag.php(387): Mpdf\Mpdf->setCSS()
+#3 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Tag.php(240): Mpdf\Tag\BlockTag->open()
+#4 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Mpdf.php(13875): Mpdf\Tag->OpenTag()
+#5 /home5/bigshrry/public_html/stock/dist/salepic/test.php(38): Mpdf\Mpdf->WriteHTML()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php on line 59
+[08-Mar-2023 06:20:02 UTC] PHP Warning:  Undefined array key 1 in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php on line 244
+[08-Mar-2023 06:20:02 UTC] PHP Warning:  Undefined array key 2 in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php on line 244
+[08-Mar-2023 06:20:02 UTC] PHP Warning:  Undefined array key 3 in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php on line 244
+[08-Mar-2023 06:20:02 UTC] PHP Fatal error:  Uncaught TypeError: round(): Argument #1 ($num) must be of type int|float, string given in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php:59
+Stack trace:
+#0 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php(59): round()
+#1 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Mpdf.php(18955): Mpdf\Color\ColorConverter->convert()
+#2 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Tag/BlockTag.php(387): Mpdf\Mpdf->setCSS()
+#3 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Tag.php(240): Mpdf\Tag\BlockTag->open()
+#4 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Mpdf.php(13875): Mpdf\Tag->OpenTag()
+#5 /home5/bigshrry/public_html/stock/dist/salepic/test.php(38): Mpdf\Mpdf->WriteHTML()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php on line 59
+[08-Mar-2023 06:27:30 UTC] PHP Warning:  Undefined array key 1 in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php on line 244
+[08-Mar-2023 06:27:30 UTC] PHP Warning:  Undefined array key 2 in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php on line 244
+[08-Mar-2023 06:27:30 UTC] PHP Warning:  Undefined array key 3 in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php on line 244
+[08-Mar-2023 06:27:30 UTC] PHP Fatal error:  Uncaught TypeError: round(): Argument #1 ($num) must be of type int|float, string given in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php:59
+Stack trace:
+#0 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php(59): round()
+#1 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Mpdf.php(18955): Mpdf\Color\ColorConverter->convert()
+#2 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Tag/BlockTag.php(387): Mpdf\Mpdf->setCSS()
+#3 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Tag.php(240): Mpdf\Tag\BlockTag->open()
+#4 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Mpdf.php(13875): Mpdf\Tag->OpenTag()
+#5 /home5/bigshrry/public_html/stock/dist/salepic/test.php(46): Mpdf\Mpdf->WriteHTML()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php on line 59
+[08-Mar-2023 06:28:32 UTC] PHP Warning:  fopen(../pdf/PDF.pdf): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Mpdf.php on line 9624
+[08-Mar-2023 06:28:32 UTC] PHP Fatal error:  Uncaught Mpdf\MpdfException: Unable to create output file ../pdf/PDF.pdf in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Mpdf.php:9627
+Stack trace:
+#0 /home5/bigshrry/public_html/stock/dist/salepic/test.php(47): Mpdf\Mpdf->Output()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Mpdf.php on line 9627
+[08-Mar-2023 06:29:42 UTC] PHP Warning:  Undefined array key 1 in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php on line 244
+[08-Mar-2023 06:29:42 UTC] PHP Warning:  Undefined array key 2 in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php on line 244
+[08-Mar-2023 06:29:42 UTC] PHP Warning:  Undefined array key 3 in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php on line 244
+[08-Mar-2023 06:29:42 UTC] PHP Fatal error:  Uncaught TypeError: round(): Argument #1 ($num) must be of type int|float, string given in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php:59
+Stack trace:
+#0 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php(59): round()
+#1 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Mpdf.php(18955): Mpdf\Color\ColorConverter->convert()
+#2 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Tag/BlockTag.php(387): Mpdf\Mpdf->setCSS()
+#3 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Tag.php(240): Mpdf\Tag\BlockTag->open()
+#4 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Mpdf.php(13875): Mpdf\Tag->OpenTag()
+#5 /home5/bigshrry/public_html/stock/dist/salepic/test.php(46): Mpdf\Mpdf->WriteHTML()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php on line 59
+[08-Mar-2023 06:30:06 UTC] PHP Warning:  Undefined array key 1 in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php on line 244
+[08-Mar-2023 06:30:06 UTC] PHP Warning:  Undefined array key 2 in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php on line 244
+[08-Mar-2023 06:30:06 UTC] PHP Warning:  Undefined array key 3 in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php on line 244
+[08-Mar-2023 06:30:06 UTC] PHP Fatal error:  Uncaught TypeError: round(): Argument #1 ($num) must be of type int|float, string given in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php:59
+Stack trace:
+#0 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php(59): round()
+#1 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Mpdf.php(18955): Mpdf\Color\ColorConverter->convert()
+#2 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Tag/BlockTag.php(387): Mpdf\Mpdf->setCSS()
+#3 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Tag.php(240): Mpdf\Tag\BlockTag->open()
+#4 /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Mpdf.php(13875): Mpdf\Tag->OpenTag()
+#5 /home5/bigshrry/public_html/stock/dist/salepic/test.php(46): Mpdf\Mpdf->WriteHTML()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/vendor/mpdf/mpdf/src/Color/ColorConverter.php on line 59
+[08-Mar-2023 08:25:16 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:25:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 4
+[08-Mar-2023 08:26:18 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:28:48 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:28:48 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 4
+[08-Mar-2023 08:28:48 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 5
+[08-Mar-2023 08:28:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 5
+[08-Mar-2023 08:29:27 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:29:27 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 4
+[08-Mar-2023 08:29:27 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 5
+[08-Mar-2023 08:29:27 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 5
+[08-Mar-2023 08:29:57 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:31:25 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:31:28 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:31:28 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:31:28 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:31:29 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:31:29 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:31:29 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:31:29 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:31:29 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:31:36 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:33:55 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:35:05 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:35:07 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:35:07 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:35:07 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:35:08 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:35:08 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:35:08 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:35:08 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:35:09 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:35:09 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:35:33 UTC] PHP Warning:  Undefined array key "p" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 08:38:01 UTC] PHP Warning:  Undefined property: stdClass::$p in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 5
+[08-Mar-2023 08:38:03 UTC] PHP Warning:  Undefined property: stdClass::$p in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 5
+[08-Mar-2023 08:38:04 UTC] PHP Warning:  Undefined property: stdClass::$p in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 5
+[08-Mar-2023 08:38:04 UTC] PHP Warning:  Undefined property: stdClass::$p in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 5
+[08-Mar-2023 08:38:04 UTC] PHP Warning:  Undefined property: stdClass::$p in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 5
+[08-Mar-2023 08:38:04 UTC] PHP Warning:  Undefined property: stdClass::$p in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 5
+[08-Mar-2023 08:38:04 UTC] PHP Warning:  Undefined property: stdClass::$p in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 5
+[08-Mar-2023 08:38:05 UTC] PHP Warning:  Undefined property: stdClass::$p in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 5
+[08-Mar-2023 08:38:05 UTC] PHP Warning:  Undefined property: stdClass::$p in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 5
+[08-Mar-2023 08:38:05 UTC] PHP Warning:  Undefined property: stdClass::$p in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 5
+[08-Mar-2023 08:38:05 UTC] PHP Warning:  Undefined property: stdClass::$p in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 5
+[08-Mar-2023 08:39:49 UTC] PHP Warning:  Undefined property: stdClass::$p in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 5
+[08-Mar-2023 08:39:53 UTC] PHP Warning:  Undefined property: stdClass::$p in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 5
+[08-Mar-2023 08:40:46 UTC] PHP Warning:  Array to string conversion in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 5
+[08-Mar-2023 08:42:27 UTC] PHP Warning:  Undefined property: stdClass::$pl_product_name in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 5
+[08-Mar-2023 08:42:27 UTC] PHP Warning:  Undefined property: stdClass::$pl_product_name in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 5
+[08-Mar-2023 08:43:04 UTC] PHP Warning:  Undefined property: stdClass::$pl_product_name in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 5
+[08-Mar-2023 08:43:04 UTC] PHP Warning:  Undefined property: stdClass::$pl_product_name in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 5
+[08-Mar-2023 08:48:24 UTC] PHP Warning:  require_once(/vendor/autoload.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 14
+[08-Mar-2023 08:48:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:14
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 14
+[08-Mar-2023 08:48:59 UTC] PHP Warning:  require_once(/vendor/autoload.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 14
+[08-Mar-2023 08:48:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:14
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 14
+[08-Mar-2023 08:49:04 UTC] PHP Warning:  Attempt to read property "p" on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 4
+[08-Mar-2023 08:49:04 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 4
+[08-Mar-2023 08:49:04 UTC] PHP Warning:  require_once(/vendor/autoload.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 14
+[08-Mar-2023 08:49:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:14
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 14
+[08-Mar-2023 08:50:28 UTC] PHP Warning:  require_once(/vendor/autoload.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 14
+[08-Mar-2023 08:50:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:14
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 14
+[08-Mar-2023 12:42:31 UTC] PHP Warning:  require_once(/autoload.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:42:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:2
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:42:51 UTC] PHP Warning:  require_once(/autoload.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:42:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:2
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:42:51 UTC] PHP Warning:  require_once(/autoload.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:42:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:2
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:43:02 UTC] PHP Warning:  require_once(/autoload.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:43:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:2
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:46:44 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:24
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:45 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:24
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:45 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:24
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:46 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:24
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:46 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:24
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:46 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:24
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:47 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:24
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:47 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:24
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:47 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:24
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:48 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:24
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:48 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:24
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:48 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:24
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:48 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:24
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:49 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:24
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:49 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:24
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:49 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:24
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:50 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:46:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:24
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:47:07 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:47:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:24
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:47:07 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:47:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:24
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:47:07 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:47:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:24
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:47:08 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:47:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:24
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:47:08 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:47:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:24
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:47:08 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:47:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:24
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:47:08 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:47:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:24
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 12:47:35 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 4
+[08-Mar-2023 12:47:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:4
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 4
+[08-Mar-2023 12:47:35 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 4
+[08-Mar-2023 12:47:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:4
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 4
+[08-Mar-2023 12:47:37 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 4
+[08-Mar-2023 12:47:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:4
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 4
+[08-Mar-2023 12:47:38 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 4
+[08-Mar-2023 12:47:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:4
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 4
+[08-Mar-2023 12:48:11 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:12 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:13 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:14 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:14 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:14 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:15 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:15 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:15 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:16 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:16 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:16 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:17 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:17 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:17 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:17 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:18 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:24 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:24 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:25 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:25 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:25 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:25 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:26 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:26 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:26 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:26 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:26 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:27 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:27 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:32 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:32 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:58 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:59 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:48:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:05 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:05 UTC] PHP Warning:  include(../../config/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:05 UTC] PHP Warning:  include(): Failed opening '../../config/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:05 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:06 UTC] PHP Warning:  include(../../config/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:06 UTC] PHP Warning:  include(): Failed opening '../../config/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:06 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:06 UTC] PHP Warning:  include(../../config/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:06 UTC] PHP Warning:  include(): Failed opening '../../config/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:06 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:06 UTC] PHP Warning:  include(../../config/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:06 UTC] PHP Warning:  include(): Failed opening '../../config/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:06 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:06 UTC] PHP Warning:  include(../../config/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:06 UTC] PHP Warning:  include(): Failed opening '../../config/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:06 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:06 UTC] PHP Warning:  include(../../config/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:06 UTC] PHP Warning:  include(): Failed opening '../../config/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:06 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:07 UTC] PHP Warning:  include(../../config/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:07 UTC] PHP Warning:  include(): Failed opening '../../config/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:07 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:07 UTC] PHP Warning:  include(../../config/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:07 UTC] PHP Warning:  include(): Failed opening '../../config/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:07 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:07 UTC] PHP Warning:  include(../../config/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:07 UTC] PHP Warning:  include(): Failed opening '../../config/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:07 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:08 UTC] PHP Warning:  include(../../config/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:08 UTC] PHP Warning:  include(): Failed opening '../../config/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:08 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:08 UTC] PHP Warning:  include(../../config/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:08 UTC] PHP Warning:  include(): Failed opening '../../config/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:08 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:08 UTC] PHP Warning:  include(../../config/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:08 UTC] PHP Warning:  include(): Failed opening '../../config/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:08 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:08 UTC] PHP Warning:  include(../../config/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:08 UTC] PHP Warning:  include(): Failed opening '../../config/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:08 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:09 UTC] PHP Warning:  include(../../config/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:09 UTC] PHP Warning:  include(): Failed opening '../../config/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:09 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:09 UTC] PHP Warning:  include(../../config/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:09 UTC] PHP Warning:  include(): Failed opening '../../config/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:09 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:09 UTC] PHP Warning:  include(../../config/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:09 UTC] PHP Warning:  include(): Failed opening '../../config/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:09 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:09 UTC] PHP Warning:  include(../../config/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:09 UTC] PHP Warning:  include(): Failed opening '../../config/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:09 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:09 UTC] PHP Warning:  include(../../config/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:09 UTC] PHP Warning:  include(): Failed opening '../../config/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:09 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:10 UTC] PHP Warning:  include(../../config/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:10 UTC] PHP Warning:  include(): Failed opening '../../config/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:10 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:12 UTC] PHP Warning:  include(../../config/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:12 UTC] PHP Warning:  include(): Failed opening '../../config/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:12 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:12 UTC] PHP Warning:  include(../../config/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:12 UTC] PHP Warning:  include(): Failed opening '../../config/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:12 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:13 UTC] PHP Warning:  include(../../config/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:13 UTC] PHP Warning:  include(): Failed opening '../../config/connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 2
+[08-Mar-2023 12:49:13 UTC] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:49:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php:25
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 25
+[08-Mar-2023 12:59:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 144
+[08-Mar-2023 12:59:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 144
+[08-Mar-2023 13:00:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 144
+[08-Mar-2023 13:00:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 144
+[08-Mar-2023 13:00:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 144
+[08-Mar-2023 13:02:40 UTC] PHP Warning:  Undefined array key "qty" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 69
+[08-Mar-2023 13:02:41 UTC] PHP Warning:  Undefined array key "qty" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 69
+[08-Mar-2023 13:02:42 UTC] PHP Warning:  Undefined array key "qty" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 69
+[08-Mar-2023 13:02:45 UTC] PHP Warning:  Undefined array key "qty" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 69
+[08-Mar-2023 13:02:46 UTC] PHP Warning:  Undefined array key "qty" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 69
+[08-Mar-2023 13:04:04 UTC] PHP Warning:  Undefined array key "$pl_selling_price" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 70
+[08-Mar-2023 13:04:05 UTC] PHP Warning:  Undefined array key "$pl_selling_price" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 70
+[08-Mar-2023 13:04:07 UTC] PHP Warning:  Undefined array key "$pl_selling_price" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 70
+[08-Mar-2023 13:05:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home5/bigshrry/public_html/stock/dist/config/connect.php:8
+Stack trace:
+#0 /home5/bigshrry/public_html/stock/dist/config/connect.php(8): mysqli->__construct()
+#1 /home5/bigshrry/public_html/stock/dist/salepic/bill.php(2): include('/home5/bigshrry...')
+#2 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/config/connect.php on line 8
+[08-Mar-2023 13:06:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home5/bigshrry/public_html/stock/dist/config/connect.php:8
+Stack trace:
+#0 /home5/bigshrry/public_html/stock/dist/config/connect.php(8): mysqli->__construct()
+#1 /home5/bigshrry/public_html/stock/dist/salepic/bill.php(2): include('/home5/bigshrry...')
+#2 {main}
+  thrown in /home5/bigshrry/public_html/stock/dist/config/connect.php on line 8
+[08-Mar-2023 13:32:07 UTC] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 24
+[08-Mar-2023 13:32:07 UTC] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 79
+[08-Mar-2023 13:32:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 84
+[08-Mar-2023 13:32:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 89
+[08-Mar-2023 13:33:45 UTC] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 68
+[08-Mar-2023 14:27:06 UTC] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 68
+[09-Mar-2023 00:46:10 UTC] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 68
+[09-Mar-2023 00:49:47 UTC] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 68
+[09-Mar-2023 00:50:43 UTC] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 68
+[09-Mar-2023 14:37:54 UTC] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 68
+[10-Mar-2023 06:01:23 UTC] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 68
+[10-Mar-2023 06:02:17 UTC] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 68
+[10-Mar-2023 12:33:24 UTC] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 68
+[10-Mar-2023 12:36:21 UTC] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 68
+[10-Mar-2023 12:37:59 UTC] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 68
+[10-Mar-2023 12:38:49 UTC] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 68
+[10-Mar-2023 12:52:06 UTC] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 68
+[10-Mar-2023 12:55:19 UTC] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 29
+[10-Mar-2023 12:55:19 UTC] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 31
+[10-Mar-2023 12:55:19 UTC] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 34
+[10-Mar-2023 12:55:19 UTC] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 36
+[10-Mar-2023 12:55:19 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 67
+[10-Mar-2023 12:55:19 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 68
+[10-Mar-2023 12:55:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 72
+[10-Mar-2023 12:55:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 76
+[10-Mar-2023 12:57:33 UTC] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 26
+[10-Mar-2023 12:57:33 UTC] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 28
+[10-Mar-2023 12:57:33 UTC] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 31
+[10-Mar-2023 12:57:33 UTC] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 33
+[10-Mar-2023 12:57:33 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 70
+[10-Mar-2023 12:57:33 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 71
+[10-Mar-2023 12:57:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 75
+[10-Mar-2023 12:57:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 79
+[10-Mar-2023 12:59:01 UTC] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 26
+[10-Mar-2023 12:59:01 UTC] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 28
+[10-Mar-2023 12:59:01 UTC] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 31
+[10-Mar-2023 12:59:01 UTC] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 33
+[10-Mar-2023 12:59:01 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 70
+[10-Mar-2023 12:59:01 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 71
+[10-Mar-2023 12:59:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 75
+[10-Mar-2023 12:59:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 79
+[10-Mar-2023 12:59:21 UTC] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 27
+[10-Mar-2023 12:59:21 UTC] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 29
+[10-Mar-2023 12:59:21 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 66
+[10-Mar-2023 12:59:21 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 67
+[10-Mar-2023 12:59:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 71
+[10-Mar-2023 12:59:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 75
+[10-Mar-2023 13:00:18 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 49
+[10-Mar-2023 13:00:18 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 50
+[10-Mar-2023 13:00:20 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 49
+[10-Mar-2023 13:00:20 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 50
+[10-Mar-2023 13:00:28 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 49
+[10-Mar-2023 13:00:28 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 50
+[10-Mar-2023 13:01:00 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 49
+[10-Mar-2023 13:01:00 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 50
+[10-Mar-2023 13:01:09 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 49
+[10-Mar-2023 13:01:09 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 50
+[10-Mar-2023 13:02:00 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:02:00 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:03:51 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:03:51 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:03:51 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:03:51 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:04:51 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:04:51 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:04:52 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:04:52 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:04:52 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:04:52 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:04:52 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:04:52 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:04:53 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:04:53 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:05:18 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:05:18 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:05:19 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:05:19 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:05:37 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:05:37 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:05:38 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:05:38 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:06:06 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:06:06 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:06:07 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:06:07 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:08:14 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:08:14 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:08:27 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:08:27 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:08:35 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:08:35 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:08:36 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:08:36 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:08:52 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:08:52 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:08:53 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:08:53 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:08:53 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:08:53 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:08:54 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:08:54 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:08:54 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:08:54 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:09:33 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:09:33 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:09:33 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:09:33 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:09:49 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:09:49 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:09:50 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:09:50 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:10:05 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:10:05 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:10:25 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:10:25 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:10:25 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:10:25 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:10:26 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 55
+[10-Mar-2023 13:10:26 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 56
+[10-Mar-2023 13:14:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:14:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:14:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:14:17 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:14:17 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:14:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:14:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:14:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:14:19 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:14:19 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:14:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:14:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:14:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:14:50 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:14:50 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:14:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:14:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:14:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:14:51 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:14:51 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:14:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:14:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:14:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:14:51 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:14:51 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:14:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:14:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:14:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:14:52 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:14:52 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:14:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:14:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:14:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:14:52 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:14:52 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:14:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:14:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:14:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:14:52 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:14:52 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:16:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:16:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:16:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:16:44 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:16:44 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:16:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:16:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:16:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:16:45 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:16:45 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:16:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:16:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:16:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:16:45 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:16:45 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:16:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:16:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:16:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:16:45 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:16:45 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:17:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:05 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 62
+[10-Mar-2023 13:17:05 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 63
+[10-Mar-2023 13:17:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:05 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 62
+[10-Mar-2023 13:17:05 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 63
+[10-Mar-2023 13:17:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:06 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 62
+[10-Mar-2023 13:17:06 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 63
+[10-Mar-2023 13:17:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:06 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 62
+[10-Mar-2023 13:17:06 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 63
+[10-Mar-2023 13:17:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:06 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 62
+[10-Mar-2023 13:17:06 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 63
+[10-Mar-2023 13:17:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:06 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 62
+[10-Mar-2023 13:17:06 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 63
+[10-Mar-2023 13:17:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:07 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 62
+[10-Mar-2023 13:17:07 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 63
+[10-Mar-2023 13:17:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:07 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 62
+[10-Mar-2023 13:17:07 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 63
+[10-Mar-2023 13:17:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 48
+[10-Mar-2023 13:17:07 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 62
+[10-Mar-2023 13:17:07 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 63
+[10-Mar-2023 13:17:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 50
+[10-Mar-2023 13:17:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 50
+[10-Mar-2023 13:17:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 50
+[10-Mar-2023 13:17:18 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 64
+[10-Mar-2023 13:17:18 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 65
+[10-Mar-2023 13:17:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:35 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:17:35 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 61
+[10-Mar-2023 13:17:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:36 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:17:36 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 61
+[10-Mar-2023 13:17:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:37 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:17:37 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 61
+[10-Mar-2023 13:17:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:37 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:17:37 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 61
+[10-Mar-2023 13:17:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:37 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:17:37 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 61
+[10-Mar-2023 13:17:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:37 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:17:37 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 61
+[10-Mar-2023 13:17:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:38 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:17:38 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 61
+[10-Mar-2023 13:17:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:38 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:17:38 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 61
+[10-Mar-2023 13:17:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:46 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:17:46 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 61
+[10-Mar-2023 13:17:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:17:47 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:17:47 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 61
+[10-Mar-2023 13:18:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:18:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:18:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:18:07 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:18:07 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 61
+[10-Mar-2023 13:18:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:18:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:18:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:18:07 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:18:07 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 61
+[10-Mar-2023 13:18:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:18:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:18:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:18:16 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:18:16 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 61
+[10-Mar-2023 13:18:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:18:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:18:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:18:17 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:18:17 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 61
+[10-Mar-2023 13:18:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:18:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:18:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:18:17 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:18:17 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 61
+[10-Mar-2023 13:18:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:18:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:18:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:18:17 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:18:17 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 61
+[10-Mar-2023 13:18:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:18:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:18:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:18:17 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:18:17 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 61
+[10-Mar-2023 13:18:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:18:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:18:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:18:18 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:18:18 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 61
+[10-Mar-2023 13:19:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:19:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:19:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:19:10 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:19:10 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 61
+[10-Mar-2023 13:19:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:19:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:19:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:19:11 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:19:11 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 61
+[10-Mar-2023 13:19:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:19:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:19:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 46
+[10-Mar-2023 13:19:11 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:19:11 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 61
+[10-Mar-2023 13:19:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:26 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:19:26 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:19:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:27 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:19:27 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:19:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:27 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:19:27 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:19:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:28 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:19:28 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:19:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:28 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:19:28 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:19:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:29 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:19:29 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:19:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:29 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:19:29 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:19:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:29 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:19:29 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:19:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:30 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:19:30 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:19:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:30 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:19:30 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:19:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:30 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:19:30 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:19:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:31 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:19:31 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:19:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:31 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:19:31 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:19:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:31 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:19:31 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:19:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:31 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:19:31 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:19:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:36 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:19:36 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:19:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:36 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:19:36 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:19:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:36 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:19:36 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:19:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 45
+[10-Mar-2023 13:19:37 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 59
+[10-Mar-2023 13:19:37 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 60
+[10-Mar-2023 13:21:02 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 68
+[10-Mar-2023 13:21:02 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 69
+[10-Mar-2023 13:21:03 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 68
+[10-Mar-2023 13:21:03 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 69
+[10-Mar-2023 13:21:31 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 68
+[10-Mar-2023 13:21:31 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 69
+[10-Mar-2023 13:21:32 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 68
+[10-Mar-2023 13:21:32 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 69
+[10-Mar-2023 13:21:40 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 68
+[10-Mar-2023 13:21:40 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 69
+[10-Mar-2023 13:21:40 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 68
+[10-Mar-2023 13:21:40 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 69
+[10-Mar-2023 13:21:41 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 68
+[10-Mar-2023 13:21:41 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 69
+[10-Mar-2023 13:21:52 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 68
+[10-Mar-2023 13:21:52 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 69
+[10-Mar-2023 13:21:52 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 68
+[10-Mar-2023 13:21:52 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 69
+[10-Mar-2023 13:21:53 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 68
+[10-Mar-2023 13:21:53 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 69
+[10-Mar-2023 13:22:00 UTC] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 68
+[10-Mar-2023 13:24:46 UTC] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 68
+[10-Mar-2023 13:24:47 UTC] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 68
+[10-Mar-2023 13:24:48 UTC] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 68
+[10-Mar-2023 13:24:50 UTC] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 68
+[10-Mar-2023 13:24:54 UTC] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 69
+[10-Mar-2023 13:25:27 UTC] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 69
+[11-Mar-2023 03:38:01 UTC] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 68
+[11-Mar-2023 03:38:01 UTC] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 69
+[11-Mar-2023 03:38:16 UTC] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 69
+[11-Mar-2023 19:24:30 Asia/Bangkok] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 70
+[11-Mar-2023 21:31:09 Asia/Bangkok] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 70
+[11-Mar-2023 21:35:59 Asia/Bangkok] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 70
+[11-Mar-2023 22:00:53 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 69
+[11-Mar-2023 22:00:53 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 70
+[11-Mar-2023 22:10:30 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 69
+[11-Mar-2023 22:10:30 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 70
+[11-Mar-2023 22:13:00 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 69
+[11-Mar-2023 22:13:00 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 70
+[11-Mar-2023 22:19:45 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 69
+[11-Mar-2023 22:19:45 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 70
+[11-Mar-2023 22:45:28 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 69
+[11-Mar-2023 22:45:28 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 70
+[11-Mar-2023 22:46:27 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 69
+[11-Mar-2023 22:46:27 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 70
+[11-Mar-2023 22:46:55 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 69
+[11-Mar-2023 22:46:55 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 70
+[11-Mar-2023 23:03:33 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 69
+[11-Mar-2023 23:03:33 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 70
+[11-Mar-2023 23:03:52 Asia/Bangkok] PHP Warning:  Undefined variable $row in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 41
+[11-Mar-2023 23:03:52 Asia/Bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 41
+[11-Mar-2023 23:03:52 Asia/Bangkok] PHP Warning:  Undefined variable $row in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 41
+[11-Mar-2023 23:03:52 Asia/Bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 41
+[11-Mar-2023 23:03:52 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 69
+[11-Mar-2023 23:03:52 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 70
+[11-Mar-2023 23:05:38 Asia/Bangkok] PHP Warning:  Undefined variable $row in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 41
+[11-Mar-2023 23:05:38 Asia/Bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 41
+[11-Mar-2023 23:05:38 Asia/Bangkok] PHP Warning:  Undefined variable $row in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 41
+[11-Mar-2023 23:05:38 Asia/Bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 41
+[11-Mar-2023 23:05:38 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 69
+[11-Mar-2023 23:05:38 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 70
+[11-Mar-2023 23:08:02 Asia/Bangkok] PHP Warning:  Undefined variable $row in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 41
+[11-Mar-2023 23:08:02 Asia/Bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 41
+[11-Mar-2023 23:08:02 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 69
+[11-Mar-2023 23:08:02 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 70
+[11-Mar-2023 23:08:29 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 70
+[11-Mar-2023 23:08:29 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 71
+[11-Mar-2023 23:08:42 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 70
+[11-Mar-2023 23:08:42 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 71
+[11-Mar-2023 23:09:08 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 70
+[11-Mar-2023 23:09:08 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 71
+[11-Mar-2023 23:09:30 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 70
+[11-Mar-2023 23:09:30 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 71
+[11-Mar-2023 23:10:04 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 70
+[11-Mar-2023 23:10:04 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 71
+[11-Mar-2023 23:13:18 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 71
+[11-Mar-2023 23:13:18 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 72
+[11-Mar-2023 23:15:58 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 74
+[11-Mar-2023 23:15:58 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 75
+[11-Mar-2023 23:18:58 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 76
+[11-Mar-2023 23:18:58 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 77
+[11-Mar-2023 23:20:04 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 76
+[11-Mar-2023 23:20:04 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 77
+[11-Mar-2023 23:20:59 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 73
+[11-Mar-2023 23:20:59 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 74
+[11-Mar-2023 23:21:24 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 73
+[11-Mar-2023 23:21:24 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 74
+[11-Mar-2023 23:24:15 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 73
+[11-Mar-2023 23:24:15 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 74
+[11-Mar-2023 23:31:54 Asia/Bangkok] PHP Warning:  Undefined property: mysqli_result::$fetch_array in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 43
+[11-Mar-2023 23:31:54 Asia/Bangkok] PHP Warning:  Undefined property: mysqli_result::$fetch_array in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 43
+[11-Mar-2023 23:31:54 Asia/Bangkok] PHP Warning:  Undefined property: mysqli_result::$fetch_array in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 43
+[11-Mar-2023 23:31:54 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 74
+[11-Mar-2023 23:31:54 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 75
+[11-Mar-2023 23:32:17 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 73
+[11-Mar-2023 23:32:17 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 74
+[11-Mar-2023 23:32:30 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 73
+[11-Mar-2023 23:32:30 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 74
+[12-Mar-2023 12:53:38 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 73
+[12-Mar-2023 12:53:38 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 74
+[12-Mar-2023 12:58:41 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 73
+[12-Mar-2023 12:58:41 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 74
+[12-Mar-2023 12:58:52 Asia/Bangkok] PHP Warning:  Undefined variable $total_price in /home5/bigshrry/public_html/stock/dist/salepic/bill.php on line 70
+[12-Mar-2023 13:02:40 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 73
+[12-Mar-2023 13:02:40 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 74
+[12-Mar-2023 13:02:40 Asia/Bangkok] PHP Warning:  Undefined array key "pl_discount" in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 81
+[12-Mar-2023 13:02:40 Asia/Bangkok] PHP Warning:  Undefined array key "pl_selling_price" in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 83
+[12-Mar-2023 13:04:03 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 73
+[12-Mar-2023 13:04:03 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 74
+[12-Mar-2023 13:04:03 Asia/Bangkok] PHP Warning:  Undefined array key "pl_discount" in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 81
+[12-Mar-2023 13:04:04 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 73
+[12-Mar-2023 13:04:04 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 74
+[12-Mar-2023 13:04:04 Asia/Bangkok] PHP Warning:  Undefined array key "pl_discount" in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 81
+[12-Mar-2023 13:04:05 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 73
+[12-Mar-2023 13:04:05 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 74
+[12-Mar-2023 13:04:05 Asia/Bangkok] PHP Warning:  Undefined array key "pl_discount" in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 81
+[12-Mar-2023 13:04:28 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 73
+[12-Mar-2023 13:04:28 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 74
+[12-Mar-2023 13:04:28 Asia/Bangkok] PHP Warning:  Undefined array key "pl_discount" in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 81
+[12-Mar-2023 13:04:29 Asia/Bangkok] PHP Warning:  Undefined variable $total in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 73
+[12-Mar-2023 13:04:29 Asia/Bangkok] PHP Warning:  Undefined variable $total_qty in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 74
+[12-Mar-2023 13:04:29 Asia/Bangkok] PHP Warning:  Undefined array key "pl_discount" in /home5/bigshrry/public_html/stock/dist/salepic/billfull.php on line 81
